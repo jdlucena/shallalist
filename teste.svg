@@ -1,0 +1,41 @@
+<svg width="1176" height="687" viewBox="0 0 1176 687" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d_450_1103)">
+<circle cx="241.995" cy="220.227" r="37.3735" fill="#42E8E0" stroke="#1093D5" data-bs-toggle="tooltip" data-bs-title="The last tip!"/>
+<circle cx="387.878" cy="367.046" r="37.3735" fill="#42E8E0" stroke="#1093D5"/>
+<circle cx="426.219" cy="113.621" r="37.3735" fill="#42E8E0" stroke="#1093D5"/>
+<circle cx="595.013" cy="65.4604" r="22.8787" fill="#42E8E0" stroke="#1093D5"/>
+<circle cx="246.203" cy="14.9624" r="13.5272" fill="#42E8E0" stroke="#1093D5"/>
+<circle cx="55.4332" cy="565.765" r="13.5272" fill="#42E8E0" stroke="#1093D5"/>
+<circle cx="595.014" cy="550.802" r="13.5272" fill="#42E8E0" stroke="#1093D5"/>
+<circle cx="793.265" cy="235.657" r="13.5272" fill="#42E8E0" stroke="#1093D5"/>
+<circle cx="1157.97" cy="143.078" r="13.5272" fill="#42E8E0" stroke="#1093D5"/>
+<circle cx="1098.12" cy="602.235" r="13.5272" fill="#42E8E0" stroke="#1093D5"/>
+<circle cx="755.859" cy="664.89" r="13.5272" fill="#42E8E0" stroke="#1093D5"/>
+<circle cx="294.831" cy="644.317" r="13.5272" fill="#42E8E0" stroke="#1093D5"/>
+<circle cx="916.704" cy="251.555" r="22.8787" fill="#42E8E0" stroke="#1093D5"/>
+<circle cx="1009.28" cy="461.028" r="22.8787" fill="#42E8E0" stroke="#1093D5"/>
+<circle cx="453.806" cy="534.905" r="22.8787" fill="#42E8E0" stroke="#1093D5"/>
+<circle cx="368.708" cy="226.306" r="22.8787" fill="#42E8E0" stroke="#1093D5"/>
+<circle cx="863.401" cy="564.829" r="22.8787" fill="#42E8E0" stroke="#1093D5"/>
+<circle cx="770.354" cy="126.713" r="37.3735" fill="#42E8E0" stroke="#1093D5"/>
+<circle cx="1087.37" cy="314.677" r="37.3735" fill="#42E8E0" stroke="#1093D5"/>
+<circle cx="732.013" cy="490.485" r="37.3735" fill="#42E8E0" stroke="#1093D5"/>
+<circle cx="93.3066" cy="366.11" r="37.3735" fill="#42E8E0" stroke="#1093D5"/>
+<circle cx="41.8735" cy="134.194" r="37.3735" fill="#42E8E0" stroke="#1093D5"/>
+<circle cx="257.893" cy="453.079" r="37.3735" fill="#42E8E0" stroke="#1093D5"/>
+<circle cx="1011.62" cy="37.8735" r="37.3735" fill="#42E8E0" stroke="#1093D5"/>
+<circle cx="846.101" cy="404.452" r="37.3735" fill="#42E8E0" stroke="#1093D5"/>
+</g>
+<defs>
+<filter id="filter0_d_450_1103" x="0" y="0" width="1176" height="686.918" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_450_1103"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_450_1103" result="shape"/>
+</filter>
+</defs>
+</svg>
